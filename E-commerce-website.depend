@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1609916383 source:d:\c programming\e-commerce-website\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"helper.h"
+	"user.h"
+	"category.h"
+	"product.h"
+	"cart.h"
+	"wishlist.h"
+	"order.h"
+
+1609573472 d:\c programming\e-commerce-website\category.h
+
+1609671182 d:\c programming\e-commerce-website\helper.h
+
+1609920214 d:\c programming\e-commerce-website\product.h
+
+1609573472 d:\c programming\e-commerce-website\user.h
+
+1609825497 d:\c programming\e-commerce-website\cart.h
+
+1609825497 d:\c programming\e-commerce-website\wishlist.h
+
+1609573472 source:d:\c programming\e-commerce-website\category.c
+
+1609573472 source:d:\c programming\e-commerce-website\helper.c
+
+1609571866 source:d:\c programming\e-commerce-website\order.c
+
+1609573472 source:d:\c programming\e-commerce-website\product.c
+
+1609573472 source:d:\c programming\e-commerce-website\user.c
+
+1609573472 source:d:\c programming\e-commerce-website\wishlist.c
+
+1609573472 source:d:\c programming\e-commerce-website\cart.c
+
+1609827284 d:\c programming\e-commerce-website\order.h
+

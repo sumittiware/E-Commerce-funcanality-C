@@ -1,0 +1,10 @@
+10=apple=tatsty apple=20=fruits
+11=banana=tatsy=30=fruits
+12=relame=best mobile=10000=mobiles
+14=redmi note 6 pro=bakwas mobile=15467=mobiles
+15=LG television=best television=12345=electronics
+16=refrigerartor=keep fruit and other stuff fresh=50000=electronics
+17=chair=comfortable=38999=electronics
+19=oven=can amke tasty food=50000=electronics
+42=rolex watch=gold watch =32000=electronics
+43=temporary=temp=100=electronics
